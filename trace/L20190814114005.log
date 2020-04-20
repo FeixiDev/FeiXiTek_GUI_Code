@@ -1,0 +1,7 @@
+Trace Start : 20190814-11:40:05.476382
+#### 20190814-11:40:05.476599 Start Program!!!!  --  GUImain
+#### 20190814-11:40:05.700096 start Dashboard  --  GUImain
+#### 20190814-11:40:05.792801 start 2 second timer  --  GUImain
+#### 20190814-11:40:05.805214 GUI mainloop enter  --  GUImain
+#### 20190814-11:40:46.881313 Stopped 2 second timer  --  GUImain
+#### 20190814-11:40:46.882613 Program exit  --  GUImain
